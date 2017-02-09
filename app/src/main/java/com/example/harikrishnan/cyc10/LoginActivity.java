@@ -26,7 +26,6 @@ import java.io.IOException;
 
 import static android.R.attr.data;
 import static com.example.harikrishnan.cyc10.R.string.login;
-//hgafjdhsagfjhdgfjhsdgfjkhdsfgksdjhfkj
 public class LoginActivity extends AppCompatActivity {
     Context context=this;
     SessionManagement session;
